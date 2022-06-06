@@ -27,4 +27,5 @@ target/
 
 # IDEA configuration
 .idea/
+*.iml
 
